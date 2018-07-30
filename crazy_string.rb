@@ -3,5 +3,5 @@
 def crazy_strings(a,b)
 end
 
-a = ("Hello Friends").reverse.upcase
+a = ("Apple").reverse.upcase
 b = ("Hello Friends").swapcase
